@@ -1,0 +1,38 @@
+[
+  {
+    "studentName": "Neel",
+    "enrollmentNo": "MSCIT001",
+    "email": "neelupdated@gmail.com",
+    "mobile": "9876543210",
+    "dateOfBirth": "2000-01-01",
+    "age": "24",
+    "gender": "Male",
+    "course": "MSc IT",
+    "specialization": "Software Engineering",
+    "semester": "4",
+    "skills": "Java, Python",
+    "hobbies": "Reading, Coding",
+    "address": "123 ABC",
+    "city": "Suarat",
+    "state": "gujrat",
+    "id": 1791038049351
+  },
+  {
+    "studentName": "Vaibhav Chavda",
+    "enrollmentNo": "MSCIT002",
+    "email": "vaibhav@example.com",
+    "mobile": "8547963210",
+    "dateOfBirth": "2000-01-02",
+    "age": "24",
+    "gender": "Male",
+    "course": "MSc IT",
+    "specialization": "Backend",
+    "semester": "6",
+    "skills": ".NET CORE, PHP",
+    "hobbies": "Coding, Traveling",
+    "address": "123 ABC",
+    "city": "Suarat",
+    "state": "gujrat",
+    "id": 1791043556352
+  }
+]
